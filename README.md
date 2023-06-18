@@ -1,1 +1,21 @@
-# E-commerce-Back-End-App
+# E-commerce Back-End Application
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## Description
+
+The goal of this project was to build the back end for an e-commerce site. I took a working Express.js API and configured it to use Sequelize to interact with a MySQL database.
+
+## Usage
+
+After entering node index into the command terminal the user will be able to choose a prompt from a list depending on what action they would like to take, such as view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role!
+
+[Click here for walkthrough video of the application](https://drive.google.com/file/d/1RwHceN-B2vkycolqThmfmhEQBuMOgeK7/view?usp=sharing)
+
+## Credits
+
+I was able to complete the assignment through tutoring from my fellow peer [Myro Lee](https://github.com/myrojoylee)!
+
+## License
+
+Refer to the license in the repository.
