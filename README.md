@@ -8,9 +8,9 @@ The goal of this project was to build the back end for an e-commerce site. I too
 
 ## Usage
 
-After entering node index into the command terminal the user will be able to choose a prompt from a list depending on what action they would like to take, such as view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role!
+After installing the node modules, connecting to the Sequelize database, installing the schema, node seeds and activating the server the user will be able to test all of the API routes in Insomnia Core to manipulate the database.
 
-[Click here for walkthrough video of the application](https://drive.google.com/file/d/1RwHceN-B2vkycolqThmfmhEQBuMOgeK7/view?usp=sharing)
+[Click here for walkthrough video of the application](https://drive.google.com/file/d/13AoarJscCDRMc-qXN_b-l_8TNNx3bGRX/view?usp=sharing)
 
 ## Credits
 
