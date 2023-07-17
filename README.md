@@ -10,7 +10,9 @@ The goal of this project was to build the back end for an e-commerce site. I too
 
 After installing the node modules, connecting to the Sequelize database, installing the schema, node seeds and activating the server the user will be able to test all of the API routes in Insomnia Core to manipulate the database.
 
-[Click here for walkthrough video of the application](https://drive.google.com/file/d/13AoarJscCDRMc-qXN_b-l_8TNNx3bGRX/view?usp=sharing)
+<img width="1363" alt="E-commerce Screenshot" src="https://github.com/tyler273/e-commerce-back-end-app/assets/127708141/6da8a9a3-bf7f-4f0b-8c51-e688623246db">
+
+[Click here for a walkthrough video of the application](https://drive.google.com/file/d/13AoarJscCDRMc-qXN_b-l_8TNNx3bGRX/view?usp=sharing)
 
 ## Credits
 
